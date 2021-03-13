@@ -1,9 +1,9 @@
 import './App.css';
 import React from 'react';
-import About from 'About';
-import Contact from 'Contact';
-import Portfolio from 'Portfolio';
-import Resume from 'Resume';
+import About from './components/About';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 
 function App() {
   return (
