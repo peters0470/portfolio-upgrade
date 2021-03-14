@@ -12,6 +12,7 @@ function App() {
       <Header></Header>
       <About></About>
       <Contact></Contact> 
+      <Portfolio></Portfolio>
       <Resume></Resume>
     </div>
   );
