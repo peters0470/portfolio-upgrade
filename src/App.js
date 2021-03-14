@@ -8,6 +8,7 @@ import Resume from './components/Resume';
 function App() {
   return (
     <div className="App">
+      <About></About>
       <Contact></Contact> 
     </div>
   );
