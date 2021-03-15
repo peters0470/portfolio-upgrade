@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-upgrade/static/css/main.01865112.chunk.css",
+    "main.js": "/portfolio-upgrade/static/js/main.bc4d27e9.chunk.js",
+    "main.js.map": "/portfolio-upgrade/static/js/main.bc4d27e9.chunk.js.map",
+    "runtime-main.js": "/portfolio-upgrade/static/js/runtime-main.285012dc.js",
+    "runtime-main.js.map": "/portfolio-upgrade/static/js/runtime-main.285012dc.js.map",
+    "static/js/2.b79c9e00.chunk.js": "/portfolio-upgrade/static/js/2.b79c9e00.chunk.js",
+    "static/js/2.b79c9e00.chunk.js.map": "/portfolio-upgrade/static/js/2.b79c9e00.chunk.js.map",
+    "static/js/3.dc468473.chunk.js": "/portfolio-upgrade/static/js/3.dc468473.chunk.js",
+    "static/js/3.dc468473.chunk.js.map": "/portfolio-upgrade/static/js/3.dc468473.chunk.js.map",
+    "index.html": "/portfolio-upgrade/index.html",
+    "static/css/main.01865112.chunk.css.map": "/portfolio-upgrade/static/css/main.01865112.chunk.css.map",
+    "static/js/2.b79c9e00.chunk.js.LICENSE.txt": "/portfolio-upgrade/static/js/2.b79c9e00.chunk.js.LICENSE.txt",
+    "static/media/Photo.ffcbda1d.png": "/portfolio-upgrade/static/media/Photo.ffcbda1d.png",
+    "static/media/resume.3000a3af.png": "/portfolio-upgrade/static/media/resume.3000a3af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285012dc.js",
+    "static/js/2.b79c9e00.chunk.js",
+    "static/css/main.01865112.chunk.css",
+    "static/js/main.bc4d27e9.chunk.js"
+  ]
+}
