@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Card from "react-bootstrap/Card";
 
+
 function Project(props) {
 	const currentProject = useState(props)[0].projects;
     const name = currentProject.name;
@@ -29,7 +30,7 @@ function Project(props) {
 		<Card style={{ width: "18rem" }}>
 			<Card.Img
 				variant="top"
-				src={require(`../../assets/images/${image}`)}
+				src= {image}
 				className="card-image"
 			/>
 			<div className="center">
