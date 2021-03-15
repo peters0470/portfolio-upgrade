@@ -5,6 +5,7 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   const [currentTab, setCurrentTab] = useState("about");
@@ -30,6 +31,9 @@ function App() {
     </div>
     <div>
     <main>{renderTab()}</main>
+  </div>
+  <div>
+    <Footer></Footer>
   </div>
   </div>
   );
